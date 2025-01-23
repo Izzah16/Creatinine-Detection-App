@@ -1,3 +1,7 @@
+mainapp.py for main desktop application
+make sure data.csv and train model ,pspymethod ,pspyinstrumentfiles are included
+pspymethod pspyinstrument
+
 Supported devices (recommended firmware):
 PalmSens1/2
 PalmSens3 (2.8)
