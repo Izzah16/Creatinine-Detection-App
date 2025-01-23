@@ -1,7 +1,5 @@
 mainapp.py for main desktop application
 make sure data.csv and train model ,pspymethod ,pspyinstrumentfiles are included
-pspymethod pspyinstrument
-
 Supported devices (recommended firmware):
 PalmSens1/2
 PalmSens3 (2.8)
@@ -21,7 +19,7 @@ Drivers need to be installed to discover and connect with PalmSens/EmStat/Sensit
 
 In some cases the PalmSens.Core.dll and/or PalmSens.Core.Windows.dll libraries may not be found. To resolve this open the pspython folder right-click on the files select properties and unblock them.
 
-To test the app in No device use the sample csv scans 
+To test the app in No device mode use the sample csv scans 
 
 All Rights Reserverd|Izzah Batool Javed
 
